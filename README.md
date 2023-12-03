@@ -8,7 +8,7 @@ This repo serves as a basic template for a web development project using the fun
 
 ## Getting Started
 
-To explore this project locally, follow these steps:
+To explore this project locally, follow these steps :
 
 1. **Clone the repository:**
 
